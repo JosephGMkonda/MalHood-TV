@@ -7,4 +7,4 @@ vibrant world of Malawian cinema with our intuitive movie website, designed to e
 ![screen1](https://github.com/JosephGMkonda/MalHood-TV/assets/105700208/a94d5343-c305-4945-ab34-fe3dca9b3b2c)
 ![screen2](https://github.com/JosephGMkonda/MalHood-TV/assets/105700208/83b2d482-4b38-4273-8562-8677c474aac7)
 ![screen3](https://github.com/JosephGMkonda/MalHood-TV/assets/105700208/67563691-1886-49ac-b9a6-318c572e379e)
-![screen4](https://github.com/JosephGMkonda/MalHood-TV/assets/105700208/b472a8d7-7882-4b1d-a75b-6c1c4b2f933d)
+
